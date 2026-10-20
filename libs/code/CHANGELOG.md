@@ -2,6 +2,19 @@
 
 # Deep Agents Code Changelog
 
+## [0.1.87](https://github.com/langchain-ai/deepagents/compare/deepagents-code==0.1.86...deepagents-code==0.1.87) (2026-10-20)
+
+
+### Features
+
+* **code:** show the prompt-cache expiration time ([#7005](https://github.com/langchain-ai/deepagents/issues/7005)) ([3407dc3](https://github.com/langchain-ai/deepagents/commit/3407dc33b9918c98c126097bf485dbf6d2f035bd))
+
+
+### Bug Fixes
+
+* **code:** stop the local server when its owner dies ([#7038](https://github.com/langchain-ai/deepagents/issues/7038)) ([fc1dbad](https://github.com/langchain-ai/deepagents/commit/fc1dbad249e82cb77776683aa891ec24dfb584fc))
+* **code:** support non-ASCII file names in `@` mentions ([#7023](https://github.com/langchain-ai/deepagents/issues/7023)) ([12f70f2](https://github.com/langchain-ai/deepagents/commit/12f70f27cc2e96ac715f4563e05b205be7adc275))
+
 ## [0.1.86](https://github.com/langchain-ai/deepagents/compare/deepagents-code==0.1.85...deepagents-code==0.1.86) (2026-10-16)
 
 ### Features
